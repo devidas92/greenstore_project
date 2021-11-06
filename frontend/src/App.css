@@ -1,0 +1,41 @@
+.Store_name{
+  color: green; font-size: 28px;
+}
+
+.offer{
+  background-color: black;
+}
+.offer .row{
+  color: white;
+}
+
+.filter{
+      text-align: end;
+    }
+.filter h4{
+      margin-right: 5px;
+    }
+.flex_filter{
+      margin-right: 125px;
+      display: inline-flex;
+    }
+.filter button{
+      margin:5px;
+    }
+
+
+.fruit_section p{
+  font-style: italic;
+  font-size: 12px;
+}
+.veg_section p{
+  font-style: italic;
+  font-size: 12px;
+}
+
+
+.footer{
+  text-align: center;
+  color: green;
+   font-size: 28px;
+}
